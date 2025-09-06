@@ -11,7 +11,7 @@
    - Fiber architecture introduction
 
 
-2. JS core
+2. ✅ JS core
    - Array.prototype.includes() - Check if element exists
    - Function.prototype.bind() - Bind function to specific context
    - Function.prototype.call() - Call function with specific context
